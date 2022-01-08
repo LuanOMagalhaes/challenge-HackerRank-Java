@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package challenge.pkgif;
+package challengers;
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Luan
  */
-public class ChallengeIf {
+public class JavaIfElse {
 
 
     public static void main(String[] args) {      
